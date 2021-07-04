@@ -1,13 +1,13 @@
 ### Hi, I'm Liam Li 👋
 [![Linkedin Badge](https://img.shields.io/badge/-Liam_Li-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yangliliam/)](https://www.linkedin.com/in/yangliliam/)
 
-##### Software Engineering Student @ San Jose State University
-##### Software Engineering Intern @ Intel Corporation
+##### Software Development Engineer @ Amazon
+###### Los Angeles, CA
 
 
 ```JavaScript
 const LiamLi = {
-  Programming_Language: "Java, Python, JavaScript",
+  Programming_Language: "Java, Python, JavaScript, Kotlin",
   
   Framework_Library: "Angular, React, React Native, Flask, Node",
   
